@@ -6,7 +6,7 @@ class Solution:
         temp.sort()
 
         startPointer = 0
-        endPointer = len(temp) - 1
+        endPointer = len(temp) - 1 
 
         while startPointer < endPointer:
             if temp[startPointer] + temp[endPointer] > target:
