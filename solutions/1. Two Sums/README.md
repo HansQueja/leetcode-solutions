@@ -1,5 +1,6 @@
 # Two Sums
 Difficulty: Easy
+
 Topics: Array, Hash Table
 
 ### Problem Definition
